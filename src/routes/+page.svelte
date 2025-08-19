@@ -163,7 +163,7 @@
 </script>
 
 <svelte:head>
-    <title>PaceBeats - Walk to your rhythm</title>
+    <title>PulsePlay - Walk to your rhythm</title>
     <meta name="description" content="Adaptive music player that matches your walking pace" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </svelte:head>
@@ -176,7 +176,7 @@
             <div class="inline-flex items-center justify-center w-20 h-20rounded-full mb-4 shadow-lg">
                 <img src="{logo}" alt="logo" class="w-full h-full rounded-full object-contain">
             </div>
-            <h1 class="text-3xl font-bold text-orange-400 mb-2">PaceBeats</h1>
+            <h1 class="text-3xl font-bold text-orange-400 mb-2">PulsePlay</h1>
             <p class="text-slate-300 text-sm">Walk to your rhythm</p>
         </div>
 
